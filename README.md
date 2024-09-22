@@ -42,3 +42,5 @@ You can install the required libraries by running the following command:
 ```bash
 pip install -r requirements.txt
 
+
+##This project was created as a sample exercise during the Data Mining course in my undergraduate Computer Engineering program
