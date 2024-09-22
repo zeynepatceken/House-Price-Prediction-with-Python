@@ -4,7 +4,7 @@ This repository contains a machine learning project focused on predicting house 
 
 
 
-![Açıklama](görselin_url)
+![Ev Fiyat Tahmini](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.linkedin.com%2Fpulse%2Fhouse-sales-price-prediction-konut-fiyat-sat%25C4%25B1%25C5%259F-m-kutlu-%25C5%259Feng%25C3%25BCl&psig=AOvVaw3-RksSr60TeU7hU8RSHgVe&ust=1727060088807000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjwiKvG1YgDFQAAAAAdAAAAABAx)
 
 
 
