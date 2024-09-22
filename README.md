@@ -45,10 +45,12 @@ pip install -r requirements.txt
 
 
 
+
+
 **Note:** This project was created as a sample exercise during the Data Mining course in my undergraduate Computer Engineering program.
 
 
 
-## note ##
+
 
 
