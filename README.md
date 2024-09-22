@@ -4,6 +4,10 @@ This repository contains a machine learning project focused on predicting house 
 
 
 
+![House Price Prediction](images/1629292061026.jfif)
+
+
+
 ## Project Overview
 
 In this project, we aim to predict house prices using a dataset with multiple features related to the properties. The project demonstrates the end-to-end process of building a regression model, from data exploration to model evaluation.
