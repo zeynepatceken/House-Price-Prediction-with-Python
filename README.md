@@ -4,7 +4,7 @@ This repository contains a machine learning project focused on predicting house 
 
 
 
-![House Price Prediction](images/ev.jfif)
+![House Price Prediction](images/ev_fiyat.jfif)
 
 
 
